@@ -38,6 +38,13 @@ streamlit run app.py
 
 3. Enter a country in the input field and click the "Generate" button. The app will display a fancy restaurant name and a list of suggested menu items! 🎊
 
+📸 Demo
+
+
+https://github.com/user-attachments/assets/20b86e02-f478-4f34-89ae-7c2df2bf1c16
+
+
+
 # 🤝 Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request. Let's make this project even better together! 💪
