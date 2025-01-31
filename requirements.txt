@@ -1,4 +1,4 @@
 langchain
--U langchain-community
+langchain-community
 huggingface_hub
---upgrade pip
+upgrade pip
