@@ -6,7 +6,7 @@ from langchain.prompts import PromptTemplate  # Import the PromptTemplate class 
 api_token = "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"  # Replace with your actual API token
 
 # Define your model repository ID
-repo_id = "google/gemma-2-27b-it"  # Replace with your model's repo ID
+repo_id = "deepseek-ai/DeepSeek-R1"  # Replace with your model's repo ID
 
 # Initialize the Hugging Face model with the API token
 llm = HuggingFaceHub(repo_id=repo_id, huggingfacehub_api_token=api_token)
